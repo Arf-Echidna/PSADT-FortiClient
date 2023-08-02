@@ -13,6 +13,7 @@
    Stores output to "C:\Temp\Completed Packages". 
 .NOTES
    This probably won't work for very long, and I'm not sure why I bothered. 
+   Bless the good folks at PSADT, https://psappdeploytoolkit.com/
 #>
 
 

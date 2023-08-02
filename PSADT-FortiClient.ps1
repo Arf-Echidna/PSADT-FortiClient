@@ -96,4 +96,4 @@ If (!(Test-Path $Output)){
 Move-Item $Toolkit -Destination "$Output\$App $Highest x64"
 Remove-Item $DestPath -Recurse -Force  
 
-[System.Windows.MessageBox]::Show("Successfully createed $App, version $Highest PSADT wrapper, at $Output",'Amazing, wow','OK','Information')
+[System.Windows.MessageBox]::Show("Successfully created $App, version $Highest PSADT wrapper, at $Output",'Amazing, wow','OK','Information')
